@@ -1,6 +1,7 @@
 # Cost of Living Index by Country 2024 - Tableau Dashboard
 
 This Tableau dashboard provides a comprehensive analysis of the Cost of Living Index for different countries in 2024. The dashboard is divided into four key metrics, helping users understand various cost-related indexes across the world:
+screenshot:"![Screenshot 2024-09-22 194942](https://github.com/user-attachments/assets/ae9fbe05-5615-432e-a620-c0fb883b0014)"
 
 ### Average Rent Index
 ### Average Cost of Living Index
